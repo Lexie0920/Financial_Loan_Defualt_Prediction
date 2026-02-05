@@ -80,3 +80,11 @@ According to competition requirements, the final submission is the probability o
   2. Loan amount and interest rate
   3. Income to debt ratio (dti)
   4. Some features from the anonymous n-series features
+  5. 
+**Future Optimization Directions**
+
+-More In-depth Feature Engineering (Feature Crosses, Polynomial Features)
+-Outlier Detection and Handling
+-Utilizing Deep Learning Models (e.g., TabNet, DeepFM)
+-Model Interpretability Analysis (SHAP, LIME)
+-Online Learning and Model Update Strategies
